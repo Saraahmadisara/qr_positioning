@@ -46,3 +46,8 @@ h1 {
     width: 100%;
 }
 
+
+button {
+  background-color: var(--main-color);
+}
+
